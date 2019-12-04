@@ -1,0 +1,166 @@
+
+body {
+    display: block;
+    margin: 8px;
+    margin-top: 8px;
+    margin-right: 100px;
+    margin-bottom: 8px;
+    margin-left: 100px;
+}
+
+#wrapper{
+    margin: o auto;
+    width: 100%;
+    background-color: rgb(241, 241, 241);
+
+  
+    
+    
+}
+
+
+
+#header{
+    
+    background-image: url("photo-1533912352517-92dd08116ea4.jpg");
+    border-radius: 15px;
+    width: 100%;
+    display: block;
+    height: 300px;
+    
+    
+    
+    
+    
+}
+    
+    img{
+    width: 130px;
+    height: 120px;
+    margin: 0 auto;
+    padding-top: 50px;
+    display: block;
+    
+}
+.responsive{
+    width: 100%;
+    max-width: 120px;
+    height: auto;
+
+
+}
+h2{
+    
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20pt;
+
+}
+ .link a{
+     float: left;
+    text-decoration: none;
+    padding-left: 30px;
+    color:rgb(112, 29, 29);
+    font-size: 17pt;
+    
+}
+#paragraf{
+    border-radius: 15px;
+    background-color:white;
+
+    
+}
+p{
+    padding: 15px;
+}
+#table{
+    border-radius: 15px;
+    background-color:white;
+    width: 100%;
+    height: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: table;
+    
+   
+}
+
+ table{
+     
+     margin-block-end: 20px;
+     margin-block-start: 20px;
+     margin-left: 20px;
+     border-collapse: collapse;
+     width: 93%;   
+    
+}
+ th{
+    text-align: center;
+    background-color: rgb(148, 19, 19);
+    color: white;
+    
+    
+   
+}
+    
+
+  td{
+    border: 1px solid rgb(112, 29, 29);
+    text-align: center;    
+}
+
+a:hover{
+    color:rgb(0, 0, 0);
+}
+#lista{
+    background-color: white;
+    border-radius: 15px;
+    padding-block-end: 50px;
+  
+
+    
+
+}
+
+
+
+
+progress{
+    width: 80%;
+    
+}
+.video{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#video{
+    background-color: white;
+    border-radius: 20px;
+}
+#kontakt{
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+input{
+    width: 50%;
+    
+}
+.dugme{
+    background-color: rgb(112, 29, 29);
+    color: white;
+    border-radius: 4px;
+    height: 30px;
+}
+input,textarea{
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
